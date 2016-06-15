@@ -5,3 +5,11 @@ Exemple de calcul d’une aire d’un carré :
 
 ABCD est un carré de côté c = 2 cm
 Aire A du carré ABCD = c x c = 2 x 2 = 4 cm²
+
+Calcul de l'aire ou surface d'un rectangle :
+L’aire A d’un rectangle (ou surface d’un rectangle) est égale au produit de la longueur L par la longueur l, soit : Aire A = L x l
+
+Exemple de calcul d’une aire d’un rectangle :
+
+ABCD est un rectangle de grande longueur L = 3 cm et de petite longueur l = 2 cm
+Aire A du rectangle ABCD = L x l = 3 x 2 = 6 cm²
